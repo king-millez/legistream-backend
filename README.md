@@ -1,6 +1,6 @@
 # legistream_backend
 
-This is the Python backend for legistream.
+This is the Python backend for legistream with an added New Zealand module.
 
 ---
 
@@ -12,12 +12,13 @@ View project on PyPI: [https://pypi.org/project/legistream-backend/](https://pyp
 
 ## Usage
 
-This package uses different modules to get live stream data from the various Australian parliaments.
+This package uses different modules to get live stream data from the Australian and NZ parliaments.
 
 **Currently supported parliaments:**
 
 - Australian Capital Territory
-- Federal
+- Central (New Zealand)
+- Federal (Australia)
 - New South Wales
 - Northern Territory
 - Queensland
